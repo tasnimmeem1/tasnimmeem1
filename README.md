@@ -20,6 +20,16 @@ Minor in Cybersecurity
 - Cybersecurity
 - Artificial Intelligence and Machine Learning
 
+## Team Projects
+
+### Mazeboot
+A JavaFX maze application developed as a team project.
+
+**My contribution:** Implemented Maze2 with car movement and collision detection, and updated MazeApplication to include it.
+
+[View Repository](https://github.com/AditheD/Mazeboot) | [My Merged Pull Request](https://github.com/AditheD/Mazeboot/pull/3)
+
+
 ## Portfolio
 
 [Visit my portfolio](https://tasnimmeem1.github.io)
