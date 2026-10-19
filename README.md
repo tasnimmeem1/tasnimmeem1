@@ -22,6 +22,8 @@ Minor in Cybersecurity
 
 ## Team Projects
 
+https://github.com/WJijon223/song-duration-analysis-project
+
 ### Mazeboot
 A JavaFX maze application developed as a team project.
 
