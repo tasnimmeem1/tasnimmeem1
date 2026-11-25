@@ -4,14 +4,12 @@ I’m a Computer Science student at Farmingdale State College with a minor in Cy
 
 ## 💻 Skills and Tools
 
-### Languages
+### Languages and Web
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
-
-### Data Formats
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
 
 ### Backend and Databases
@@ -42,7 +40,9 @@ I’m a Computer Science student at Farmingdale State College with a minor in Cy
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-### Project Management
+### Project Management and ALM
+Application Lifecycle Management (ALM) involves managing software work through its development lifecycle.
+
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 ## 🎯 Interests
