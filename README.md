@@ -1,6 +1,6 @@
 # Hi, I’m Shahla T. Meem 👋
 
-I’m a Computer Science student at Farmingdale State College with a minor in Cybersecurity. I’m interested in backend development and database security, and I enjoy building projects with Java, JavaFX, Python, and SQL.
+I’m a Computer Science student at Farmingdale State College with a minor in Cybersecurity. I’m interested in backend development and database security. I build projects with Java, JavaFX, Python, and SQL, and I use pandas and NumPy to organize and analyze data.
 
 ## 💻 Skills and Tools
 
@@ -8,6 +8,8 @@ I’m a Computer Science student at Farmingdale State College with a minor in Cy
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
 
 ### Data Formats
 ![JSON](https://img.shields.io/badge/JSON-000000?logo=json&logoColor=white)
@@ -21,7 +23,10 @@ I’m a Computer Science student at Farmingdale State College with a minor in Cy
 ### Frontend and UI
 ![JavaFX](https://img.shields.io/badge/JavaFX-4285F4?logoColor=white)
 ![FXML](https://img.shields.io/badge/FXML-6C6C6C)
-![CSS](https://img.shields.io/badge/CSS-663399?logo=css&logoColor=white)
+
+### Data Science and Analysis
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
 
 ### IDEs
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?logo=intellijidea&logoColor=white)
