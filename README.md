@@ -40,13 +40,11 @@ I’m a Computer Science student at Farmingdale State College with a minor in Cy
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
 
-### Project Management and ALM
-Application Lifecycle Management (ALM) involves managing software work through its development lifecycle.
-
+### Project Management Tools
+![ALM](https://img.shields.io/badge/ALM-Application%20Lifecycle%20Management-6A5ACD)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=white)
 
 ## 🎯 Interests
-
 - Backend development
 - Database security
 - Cybersecurity
